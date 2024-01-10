@@ -1,0 +1,1 @@
+[10-Dec-2023 15:17:57 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\FrontendController::heliopolis() in /home/famillyn/public_html/blog/project/app/Http/Controllers/FrontendController.php on line 178
